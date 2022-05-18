@@ -1,6 +1,6 @@
 # Kubeflow demo
 
-## Deploying a Kubernetes cluster with kind
+## Deploying a Kubernetes cluster with kind.
 
 Install Kind following these instructions [here.](https://www.kubeflow.org/docs/components/pipelines/installation/localcluster-deployment/#1-installing-kind)
 
